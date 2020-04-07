@@ -3436,9 +3436,10 @@ body.btNoSidebar .btPostSingleItemColumns:first-of-type {
     color: #fff;
     }
 .btDarkSkin .btReadMoreColumn .bt_bb_style_outline.bt_bb_button a {
-    -webkit-box-shadow: 0 0 0 1px #fff inset;
-    box-shadow: 0 0 0 1px #fff inset;
-    color: #fff;
+    border-radius: 50px;
+    background: #c1c1c1;
+    box-shadow:  20px 20px 60px #a4a4a4, 
+                 -20px -20px 60px #dedede;
     }
 .btDarkSkin .btReadMoreColumn .bt_bb_style_outline.bt_bb_button:hover a {
     -webkit-box-shadow: 0 0 0 2em #fff inset;
