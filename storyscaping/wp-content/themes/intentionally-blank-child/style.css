@@ -1,0 +1,43 @@
+/*
+Theme Name: Intentionally Blank Child
+Theme URI: https://www.nilovelez.com/portfolio/blank/
+Template: intentionally-blank
+Author: Nilo Velez
+Author URI: https://www.nilovelez.com/
+Description: This theme is by default blank, but I've modified it by taking away all elements in the theme and replaced them using Elementor.
+Tags: custom-background,theme-options,translation-ready
+Version: 1.0.1.1582807881
+Updated: 2020-02-27 13:51:21
+
+*/
+
+#contact-box-bg, #work-bg {
+	background: #d7d7d7;
+}
+
+#contact-box-one {
+	border-radius: 28px;
+	background: #d7d7d7;
+	box-shadow:  6px 6px 12px #8c8c8c, 
+				 -6px -6px 12px #ffffff;
+}
+
+#contact-box-two {
+	border-radius: 28px;
+	background: #d7d7d7;
+	box-shadow:  6px 6px 12px #8c8c8c, 
+				 -6px -6px 12px #ffffff;
+}
+
+#button-one, #button-two {
+	border-radius: 28px;
+	box-shadow: 6px 6px 12px #7d7d7d, 
+             	-6px -6px 12px #ffffff;
+}
+
+#work-img-one, #work-img-two {
+	border-radius: 28px;
+	background: #c1c1c1;
+	box-shadow:  6px 6px 12px #7d7d7d, 
+				 -6px -6px 12px #ffffff;
+}

@@ -1,0 +1,357 @@
+# Translation of Plugins - WooSidebars - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - WooSidebars - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-23 15:51:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - WooSidebars - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://woocommerce.com/"
+msgstr "http://woocommerce.com/"
+
+#: classes/class-woo-conditions.php:147
+msgid "The \"%s\" page and its children"
+msgstr "Siden \"%s\" og undersider"
+
+#: classes/class-woo-conditions.php:129
+msgid "Pages and their children"
+msgstr "Sider og undersider"
+
+#. Description of the plugin/theme
+msgid "Replace widget areas in your theme for specific pages, archives and other sections of WordPress."
+msgstr "Erstatter widget områder i dit tema for bestemte sider, arkiver og andre dele af WordPress."
+
+#. Plugin URI of the plugin/theme
+msgid "http://woocommerce.com/woosidebars/"
+msgstr "http://woocommerce.com/woosidebars/"
+
+#. Plugin Name of the plugin/theme
+msgid "WooSidebars"
+msgstr "WooSidebars"
+
+#: integrations/integration-woocommerce.php:125
+msgid "Products tagged \"%s\""
+msgstr "Produkter tagget \"%s\""
+
+#: integrations/integration-woocommerce.php:124
+msgid "Products in the \"%s\" category"
+msgstr "Produkter i \"%s\" kategori"
+
+#: integrations/integration-woocommerce.php:119
+msgid "The WooCommerce \"Account\" pages"
+msgstr "WooCommerce \"Konto\" sider"
+
+#: integrations/integration-woocommerce.php:118
+msgid "Account Pages"
+msgstr "Konto sider"
+
+#: integrations/integration-woocommerce.php:114
+msgid "The WooCommerce \"Checkout\" page"
+msgstr "WooCommerce \"Kasse\" siden"
+
+#: integrations/integration-woocommerce.php:113
+msgid "Checkout Page"
+msgstr "Kasse-side"
+
+#: integrations/integration-woocommerce.php:109
+msgid "The WooCommerce \"Cart\" page"
+msgstr "WooCommerce \"Varekurv\" siden"
+
+#: integrations/integration-woocommerce.php:108
+msgid "Cart Page"
+msgstr "Varekurvs side"
+
+#: integrations/integration-woocommerce.php:104
+msgid "All products"
+msgstr "Alle produkter"
+
+#: integrations/integration-woocommerce.php:103
+msgid "Products"
+msgstr "Produkter"
+
+#: integrations/integration-woocommerce.php:99
+msgid "All product tags"
+msgstr "Alle produkt tags"
+
+#: integrations/integration-woocommerce.php:98
+msgid "Product Tags"
+msgstr "Produkt-tags"
+
+#: integrations/integration-woocommerce.php:94
+msgid "All product categories"
+msgstr "Alle produkt kategorier"
+
+#: integrations/integration-woocommerce.php:93
+msgid "Product Categories"
+msgstr "Produkt kategorier"
+
+#: integrations/integration-woocommerce.php:89
+msgid "The WooCommerce \"Shop\" landing page"
+msgstr "WooCommerce \"Butik\" destinationsside"
+
+#: integrations/integration-woocommerce.php:88
+msgid "Shop Page"
+msgstr "Butiks side"
+
+#. #-#-#-#-#  woosidebars-code.pot (WooSidebars 1.4.5)  #-#-#-#-#
+#. Author of the plugin/theme
+#: integrations/integration-woocommerce.php:73
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: classes/class-woo-sidebars.php:699
+msgid "You have taken too long. Please go back and retry."
+msgstr "Det tog for lang tid. Gå tilbage og prøv igen."
+
+#: classes/class-woo-sidebars.php:698
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har ikke tilstrækkelige tilladelser til at få adgang til denne side."
+
+#: classes/class-woo-sidebars.php:652
+msgid "Custom Sidebars"
+msgstr "Brugerdefinerede Sidebars"
+
+#: classes/class-woo-sidebars.php:408
+msgid "Widget Area updated."
+msgstr "Widget område opdateret."
+
+#: classes/class-woo-sidebars.php:391
+msgid "Enter widget area name here"
+msgstr "Indtast widget område navn her"
+
+#: classes/class-woo-sidebars.php:378
+msgid "Add an optional description, to be displayed when adding widgets to this widget area on the %sWidgets%s screen."
+msgstr "Tilføj en valgfri beskrivelse, der skal vises, når du tilføjer widgets til dette widgetområde på %sWidgets%s siden."
+
+#: classes/class-woo-sidebars.php:322
+msgid "No sidebars are available with this theme."
+msgstr "Ingen sidebjælker er tilgængelige med dette tema."
+
+#: classes/class-woo-sidebars.php:295 classes/class-woo-sidebars.php:377
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: classes/class-woo-sidebars.php:258
+msgid "Condition(s)"
+msgstr "Betingelse(r)"
+
+#: classes/class-woo-sidebars.php:258 classes/class-woo-sidebars.php:288
+msgid "Sidebar To Replace"
+msgstr "Sidebjælke som udskiftes"
+
+#: classes/class-woo-sidebars.php:223
+msgid "(Not in use by current theme)"
+msgstr "(Ikke i brug af det aktuelle tema)"
+
+#: classes/class-woo-sidebars.php:172
+msgid "No %s Found In Trash"
+msgstr "Ingen %s fundet i Papirkurven"
+
+#: classes/class-woo-sidebars.php:171
+msgid "No %s Found"
+msgstr "Ingen %s fundet"
+
+#: classes/class-woo-sidebars.php:170
+msgid "Search %a"
+msgstr "Søg %a"
+
+#: classes/class-woo-sidebars.php:169
+msgid "View %s"
+msgstr "Vis %s"
+
+#: classes/class-woo-sidebars.php:167
+msgid "New %s"
+msgstr "Ny %s"
+
+#: classes/class-woo-sidebars.php:166
+msgid "Edit %s"
+msgstr "Rediger %s"
+
+#: classes/class-woo-sidebars.php:165
+msgid "Add New %s"
+msgstr "Tilføj ny %s"
+
+#: classes/class-woo-sidebars.php:164
+msgctxt "Widget Area"
+msgid "Add New"
+msgstr "Tilføj ny"
+
+#: classes/class-woo-sidebars.php:163
+msgctxt "post type singular name"
+msgid "Widget Area"
+msgstr "Widget-område"
+
+#: classes/class-woo-sidebars.php:162
+msgctxt "post type general name"
+msgid "Widget Areas"
+msgstr "Widget Område"
+
+#: classes/class-woo-sidebars.php:155 classes/class-woo-sidebars.php:168
+msgid "Widget Areas"
+msgstr "Widget Område"
+
+#: classes/class-woo-sidebars.php:154
+msgid "Widget Area"
+msgstr "Widget-område"
+
+#: classes/class-woo-conditions.php:701
+msgid "Taxonomy Token"
+msgstr "Taksonomi token"
+
+#: classes/class-woo-conditions.php:635
+msgid "Advanced"
+msgstr "Avanceret"
+
+#: classes/class-woo-conditions.php:626
+msgid "Taxonomy Terms"
+msgstr "Taksonomi betingelser"
+
+#: classes/class-woo-conditions.php:352
+msgid "Displayed on all 404 error screens."
+msgstr "Vises på alle 404 fejl sider."
+
+#: classes/class-woo-conditions.php:351
+msgid "404 Error Screens"
+msgstr "404 Fejl sider"
+
+#: classes/class-woo-conditions.php:347
+msgid "Displayed on all date archives."
+msgstr "Vises på alle dato arkiver."
+
+#: classes/class-woo-conditions.php:346
+msgid "Date Archives"
+msgstr "Dato-arkiver"
+
+#: classes/class-woo-conditions.php:342
+msgid "Displayed on all author archive screens (that don't have a more specific sidebar)."
+msgstr "Vises på alle forfatter arkiv sider (der ikke har et mere specifikt sidebjælke)."
+
+#: classes/class-woo-conditions.php:341
+msgid "Author Archives"
+msgstr "Forfatter arkiver"
+
+#: classes/class-woo-conditions.php:337
+msgid "Displayed on all archives (category, tag, taxonomy, post type, dated, author and search)."
+msgstr "Vises på alle arkiver (kategori, tag, taksonomi, indlægstype, dateret, forfatter og søgning)."
+
+#: classes/class-woo-conditions.php:336
+msgid "All Archives"
+msgstr "Alle arkiver"
+
+#: classes/class-woo-conditions.php:332
+msgid "Displayed on single entries of any public post type other than \"Pages\"."
+msgstr "Vises på enkelt indlæg af enhver offentlig indlægstype bortset fra \"Sider\"."
+
+#: classes/class-woo-conditions.php:331
+msgid "Single Entries"
+msgstr "Enkelt indlæg"
+
+#: classes/class-woo-conditions.php:327
+msgid "Displayed on any front page, regardless of the settings under the \"Settings -> Reading\" admin screen."
+msgstr "Vises på enhver forside, uanset indstillingerne under \"Indstillinger -> Læsning\" Kontrolpanel."
+
+#: classes/class-woo-conditions.php:326
+msgid "Front Page"
+msgstr "Forside"
+
+#: classes/class-woo-conditions.php:322
+msgid "Displayed on the default \"Your Latest Posts\" screen."
+msgstr "Vises på standard \"Dit Nyeste Indlæg\" side."
+
+#: classes/class-woo-conditions.php:321
+msgid "Default \"Your Latest Posts\" Screen"
+msgstr "Standard \"Dit Nyeste Indlæg\" side"
+
+#: classes/class-woo-conditions.php:317
+msgid "Displayed on search results screens."
+msgstr "Vises på Søgeresultat sider."
+
+#: classes/class-woo-conditions.php:316
+msgid "Search Results"
+msgstr "Søgeresultater"
+
+#: classes/class-woo-conditions.php:312
+msgid "Displayed on all pages that don't have a more specific widget area."
+msgstr "Vises på alle sider, der ikke har et mere specifikt widget område."
+
+#: classes/class-woo-conditions.php:307
+msgid "Template Hierarchy"
+msgstr "Skabelon hierarki"
+
+#: classes/class-woo-conditions.php:298
+msgid "All posts tagged %s"
+msgstr "Alle indlæg tagget %s"
+
+#: classes/class-woo-conditions.php:298
+msgid "All posts tagged \"%s\""
+msgstr "Alle indlæg tagget \"%s\""
+
+#: classes/class-woo-conditions.php:295
+msgid "All posts in the %s %s archive"
+msgstr "Alle indlæg i %s %s arkiv"
+
+#: classes/class-woo-conditions.php:295
+msgid "All posts in \"%s\""
+msgstr "Alle indlæg i \"%s\""
+
+#: classes/class-woo-conditions.php:293
+msgid "The %s %s archive"
+msgstr "%s %s Arkivet"
+
+#: classes/class-woo-conditions.php:284
+msgid "The default \"%s\" archives"
+msgstr "Standard \"%s\" arkiver"
+
+#: classes/class-woo-conditions.php:276
+msgid "Taxonomy Archives"
+msgstr "Taksonomi arkiver"
+
+#: classes/class-woo-conditions.php:259
+msgid "Entries in the \"%s\" post type"
+msgstr "Indlæg i \"%s\" indlægstypen"
+
+#: classes/class-woo-conditions.php:258
+msgid "Each Individual %s"
+msgstr "Hver enkelt %s"
+
+#: classes/class-woo-conditions.php:250
+msgid "The \"%s\" post type archive"
+msgstr "\"%s\" Indlægstype arkivet"
+
+#: classes/class-woo-conditions.php:249
+msgid "\"%s\" Post Type Archive"
+msgstr "\"%s\" indlægstype arkiv"
+
+#: classes/class-woo-conditions.php:242
+msgid "Post Types"
+msgstr "Indlægstype"
+
+#: classes/class-woo-conditions.php:232
+msgid "The \"%s\" page template"
+msgstr "\"%s\" Side Skabelon"
+
+#: classes/class-woo-conditions.php:226
+msgid "Page Templates"
+msgstr "Side skabelon"
+
+#: classes/class-woo-conditions.php:213
+msgid "A custom sidebar for \"%s\""
+msgstr "Et brugerdefineret sidebjælke for \"%s\""
+
+#: classes/class-woo-conditions.php:142
+msgid "The \"%s\" page"
+msgstr "\"%s\" siden"
+
+#: classes/class-woo-conditions.php:128 classes/class-woo-conditions.php:311
+msgid "Pages"
+msgstr "Sider"
+
+#: classes/class-woo-conditions.php:57
+msgid "Conditions"
+msgstr "Betingelser"

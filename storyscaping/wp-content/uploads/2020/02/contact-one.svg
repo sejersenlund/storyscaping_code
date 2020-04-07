@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000"><defs><style>
+      .cls-1 {
+        fill: #d7d7d7;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style><filter id="filter" x="449" y="27" width="1027" height="1035" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="4.796"></feGaussianBlur><feGaussianBlur stdDeviation="4.243"></feGaussianBlur></filter></defs><g id="Artboard_1" data-name="Artboard 1"><path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" d="M594.621,72.182H1328.61a100,100,0,0,1,100,100V906.169a100,100,0,0,1-100,100H594.621a100,100,0,0,1-100-100V172.182A100,100,0,0,1,594.621,72.182Z" transform="translate(-460 -40)"></path><image id="Screenshot_2020-02-27_at_14.31.09" data-name="Screenshot 2020-02-27 at 14.31.09" x="195" y="216" width="571" height="571"></image></g></svg>

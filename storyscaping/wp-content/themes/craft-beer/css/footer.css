@@ -1,0 +1,102 @@
+/* Footer copyright */
+
+.btSiteFooter  {
+	font-size: 0.9em;
+	@fragment btClear;
+	.copyLine {
+		margin-bottom: 0;
+	}
+}
+
+.btSiteFooterWidgets {
+	 box-shadow: 0 0 20px 0 rgba(0,0,0,.15);
+	 padding-top: 4em;
+	.btBox {
+		background-color: transparent;
+		.btImage img {
+			margin: initial;
+		}	
+	} 	
+}
+
+.btSiteFooter {
+
+	.port div {
+		display: flex;
+		.btFooterCopy, .btFooterMenu {
+			padding-top: 2em;
+			padding-bottom: 2em;
+		}
+		.btFooterMenu {
+			.menu {
+				margin: 0 -1em;
+				padding: 0;
+				list-style: none;
+				li {
+					display: inline-block;
+					margin: 0 1em;
+					padding: 0;
+				}
+			}
+			text-align: right;
+			.rtl & {
+				text-align: left;
+			}
+		}
+		.btFooterCopy {
+			.rtl & {
+				text-align: right;
+			}
+		}	
+	}
+	.port:before  {
+		content: '';
+		clear: both;
+		width: 100%;
+		display: block;
+		height: 4px; 
+		background-color: $(darkFontColor);
+	}	
+}
+
+:lightSkinSelector {
+	.btSiteFooterWidgets  {
+		background: $(lightBgColor);
+	}
+	.btSiteFooter  {
+		background: $(darkFontColor);
+		.port:before  {
+			background-color: $(lightFontColor);
+		}		
+	}
+}
+
+:darkSkinSelector {
+	.btSiteFooterWidgets  {
+		background: $(darkBgColor);
+	}
+	.btSiteFooter  {
+		background: $(darkBgColor);
+		.port:before  {
+			background-color: $(accentColor);
+		}
+	}
+}
+
+@media (max-width: 992px) {
+
+	.btSiteFooter {
+		.port .btFooterCopy, .port .btFooterMenu {
+			padding-top: 1em;
+			padding-bottom: 1em;
+			text-align: center;
+		}	
+	}
+
+
+	.btSiteFooterWidgets .btIconWidgetContent {
+		width: 100%;
+		ul.cart_list {width: 100%;}
+	}
+
+}
